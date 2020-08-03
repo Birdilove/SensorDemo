@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SensorDemo</string>
+    <string name="sensorDescription">Basic application to represent the use of various type of sensors in a device.</string>
+</resources>
